@@ -1,0 +1,2 @@
+# DevOpsPracticeEmi
+BSides2023
